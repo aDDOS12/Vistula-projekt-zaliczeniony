@@ -10,6 +10,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.AxHost;
 
+// TODO: refaktor kodu
+// TODO: dodanie exception handling
+// TODO: dodanie wizualizacji metody sortującej
+
 namespace DP_74513_ProjektZaliczeniowy
 {
     // Klasa - główne okno i funkcjonalność interfejsu
