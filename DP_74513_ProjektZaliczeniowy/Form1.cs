@@ -14,6 +14,8 @@ using static System.Windows.Forms.AxHost;
 // TODO: dodanie exception handling
 // TODO: dodanie wizualizacji metody sortującej
 
+// test
+
 namespace DP_74513_ProjektZaliczeniowy
 {
     // Klasa - główne okno i funkcjonalność interfejsu
